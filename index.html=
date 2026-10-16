@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html>
+<head>
+  <title>Chutech Pro | Web Developer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chutech Pro</h1>
+    <p>Aspiring Web Developer from Yaoundé</p>
+  </header>
+  <div class="container">
+    <h2>About Me</h2>
+    <p>Hello! This is my first live website. I'm learning to build websites and web applications.</p>
+    <h2>My Goals</h2>
+    <ul>
+      <li>Learn HTML, CSS, JavaScript</li>
+      <li>Build a portfolio</li>
+      <li>Build a web app</li>
+    </ul>
+    <p>My GitHub: <a href="https://github.com/chutechpro">chutechpro</a></p>
+  </div>
+</body>
+</html>
